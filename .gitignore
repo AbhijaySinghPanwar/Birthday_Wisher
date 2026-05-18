@@ -1,0 +1,16 @@
+# IDE
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables (never commit secrets!)
+.env
+
+# OS
+.DS_Store
+Thumbs.db
